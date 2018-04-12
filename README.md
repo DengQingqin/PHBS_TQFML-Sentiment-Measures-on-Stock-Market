@@ -21,7 +21,7 @@ Method:
     
 More Details:
 
-    1. Choose some sentiment factors that may reflect the future change of the SCI 300 Index, and try to obtain the data of as much as I can.
+    1. Choose some sentiment factors, such as turnover rate that may reflect the future change of the SCI 300 Index, and try to obtain the data of as much as I can.
     2. Select some effective factors by linear regression or PCA.
     3. Define two states of SCI 300 Index, rising (upward) and falling (downward). Apply SVM and Logistic regression to carrying out the classification.
     4. Check the accuracy of the method. If it’s accurate, try to apply it to the futures market. If not, try to find some other sentiment factors and do it again.
