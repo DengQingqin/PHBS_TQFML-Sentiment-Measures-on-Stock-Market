@@ -10,7 +10,8 @@ Through the research and analysis of sentiment indicators, I choose 8 indicators
 According some research reports and papers, I choose 8 sentiment factors.
 The data ranges from 2010 to 2018.
 The data includes 8 sentiment factors (independent variables):
-1.	A-Share investor growth
+1.  𝐀−𝐬𝐡𝐚𝐫𝐞 𝐈𝐧𝐯𝐞𝐬𝐭𝐨𝐫 𝐆𝐫𝐨𝐰𝐭𝐡=(𝐍𝐞𝐰 𝐧𝐮𝐦𝐛𝐞𝐫 𝐨𝐟 𝐢𝐧𝐯𝐞𝐬𝐭𝐨𝐫𝐬)/(𝐍𝐮𝐦𝐛𝐞𝐫 𝐨𝐟 𝐢𝐧𝐯𝐞𝐬𝐭𝐨𝐫𝐬 𝐚𝐭 𝐭𝐡𝐞 𝐞𝐧𝐝)
+
 2.	A-Share turnover rate
 3.	ETF net redemption rate
 4.	Financing balance growth
